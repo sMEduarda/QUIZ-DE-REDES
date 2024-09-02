@@ -30,10 +30,6 @@ def main():
         ("IPv4: Qual é a característica principal do IPv4 em relação ao número de endereços disponíveis?", ["Possui um número limitado de endereços", "Suporta endereços de 128 bits", "Foi projetado exclusivamente para redes locais"], 1),
         ("Mascara de Rede: Qual é a máscara de rede padrão para a classe C?", ["255.255.0.0", "255.0.0.0", "255.255.255.0"], 3),
         ("Rede e Host: Em um endereço IPv4, o que a parte de rede identifica?", [" O dispositivo específico na rede", "A rede à qual o dispositivo pertence", "A sub-rede dentro da rede principal"], 2),
-        ("", ["", "", ""], 3),
-        ("", ["", "", ""], 3),
-        ("", ["", "", ""], 3),
-        
         
         #PERGUNTAS
     ]
