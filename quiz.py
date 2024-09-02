@@ -5,7 +5,6 @@ init(autoreset=True)
 
 def quiz(perguntas):
     pontuacao = 0
-    perguntas = random.sample(perguntas, 2) #SORTEAR A QUANTIDADE DE PERGUNTAS
 
     for pergunta, opcoes, resposta_correta in perguntas:
         print(Fore.MAGENTA + Style.BRIGHT + pergunta)
